@@ -101,7 +101,7 @@
             this.Controls.Add(this.txbCep);
             this.Controls.Add(this.lblCep);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Consumindo WSDL Correios";
             this.ResumeLayout(false);
             this.PerformLayout();
 
